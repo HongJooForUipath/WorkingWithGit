@@ -4,6 +4,7 @@
   "description": "빈 프로세스",
   "main": "Main.xaml",
   "dependencies": {
+    "ChromeACMESystem1.Descriptors1": "[1.0.1]",
     "UiPath.Excel.Activities": "[2.22.2]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.2]",
