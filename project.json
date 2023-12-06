@@ -1,12 +1,14 @@
 {
-  "name": "빈프로세스5",
-  "projectId": "4fa869d5-0c93-4260-ab42-e70b0ecffd67",
+  "name": "P2 PDF",
+  "projectId": "131b248b-9b20-4686-a965-250748f3d35a",
   "description": "빈 프로세스",
   "main": "Main.xaml",
   "dependencies": {
-    "ChromeACMESystem1.Descriptors1": "[1.0.1]",
     "UiPath.Excel.Activities": "[2.22.2]",
+    "UiPath.GSuite.Activities": "[2.4.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.OCR.Activities": "[3.17.1]",
+    "UiPath.PDF.Activities": "[3.16.0]",
     "UiPath.System.Activities": "[23.10.2]",
     "UiPath.Testing.Activities": "[23.10.0]",
     "UiPath.UIAutomation.Activities": "[23.10.3]"
@@ -52,7 +54,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "73347c03-a98d-4dd1-9690-f78531d0c091",
+      "uniqueId": "f979524e-c490-42d7-b692-c8b7dd85e0e9",
       "input": [],
       "output": []
     }
